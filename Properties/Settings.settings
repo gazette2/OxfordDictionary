@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="OxfordDictionary.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AppID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">7d48668f</Value>
+    </Setting>
+    <Setting Name="AppKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8a7705cbb724fc826b0d758f5e4da3dc</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
